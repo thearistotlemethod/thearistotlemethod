@@ -13,7 +13,7 @@ Expert software engineer with extensive experience across a wide range of techno
 [![](https://visitcount.itsvg.in/api?id=thearistotlemethod&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ufukvarol4) 
+<a href="https://www.buymeacoffee.com/ufukvarol4"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ufukvarol4&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
